@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1684538829 source:c:\users\user\desktop\programação\programação\pilha dinâmica\main.cpp
+	<iostream>
+	<stack>
+
