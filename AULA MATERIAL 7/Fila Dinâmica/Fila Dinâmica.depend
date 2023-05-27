@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1685142765 source:c:\users\user\desktop\programação\programação\fila dinâmica\main.cpp
+	<iostream>
+	<queue>
+	<string>
+

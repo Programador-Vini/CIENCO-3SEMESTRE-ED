@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1685146262 source:c:\users\user\desktop\programação\programação\ex1 - material 7\main.cpp
+	<iostream>
+	<string>
+	<queue>
+
