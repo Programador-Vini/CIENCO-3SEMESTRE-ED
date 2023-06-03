@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1685753147 source:c:\users\user\desktop\programação\estrutura de dados\classe list (1)\main.cpp
+	<iostream>
+	<list>
+	<iterator>
+
